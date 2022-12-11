@@ -1,0 +1,20 @@
+@font-face {
+    font-family: iransans;
+    src: url(IRANSansWeb.woff);
+}
+
+@font-face {
+    font-family: iransansBold;
+    src: url(AnyConv.com__IRANSansWeb_Bold.woff);
+}
+
+@font-face {
+    font-family: yekan;
+    src: url(Yekan.woff);
+}
+
+@font-face {
+    font-family: yekanBold;
+    src: url(iranyekanwebbold.woff);
+    font-weight: 900;
+}
